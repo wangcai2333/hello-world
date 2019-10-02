@@ -1,3 +1,3 @@
 # hello-world
 
-Coding is fantastic.
+Newbie here. First step is the most important.
